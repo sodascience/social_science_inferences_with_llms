@@ -10,6 +10,14 @@ This study has two primary objectives. First, we **review existing literature** 
 
 ## Literature Overview
 
+### Inferences with LLMs
+
+### Inferences with Machine Learning Predictions
+
+### Inferences with Missing Values
+
+### Inferences with Measurement Error
+
 ## Contact
 <img src="./img/soda_logo.png" alt="SoDa logo" width="250px"/>
 
