@@ -18,6 +18,8 @@ This study has two primary objectives. First, we **review existing literature** 
 
 ### Inferences with Measurement Error
 
+## A Guiding Framework
+
 ## Contact
 <img src="./img/soda_logo.png" alt="SoDa logo" width="250px"/>
 
