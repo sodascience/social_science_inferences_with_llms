@@ -12,6 +12,8 @@ This study has two primary objectives. First, we <ins>review existing literature
 | Year | Title | Predicted Variable(s) | 
 | --- | --- | --- |
 | 2023 | [Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models](https://openreview.net/pdf?id=e8RZwixcE4) | Outcome |
+| 2024 | [Inference for Regression with Variables Generated from Unstructured Data](https://arxiv.org/pdf/2402.15585) | Predictor |
+| 2024 | [From Narratives to Numbers: Valid Inference Using Language Model Predictions from Verbal Autopsies](https://openreview.net/pdf?id=QbCHlIqbDJ) | Outcome |
 | 2024 | [Using Large Language Model Annotations for the Social Sciences: A General Framework of Using Predicted Variables in Downstream Analyses](https://naokiegami.com/paper/dsl_ss.pdf) | Predictor and outcome |
 
 ### Inferences with Machine Learning Predictions
@@ -30,18 +32,17 @@ This study has two primary objectives. First, we <ins>review existing literature
 | 2024 | [Prediction De-Correlated Inference: A safe approach for post-prediction inference](https://arxiv.org/abs/2312.06478) | Outcome |
 
 ### Inferences with Measurement Error
-| Year | Title | 
-| --- | --- |
-| 2023 | [Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models](https://openreview.net/pdf?id=e8RZwixcE4)
-| 2024 | [Using Large Language Model Annotations for the Social Sciences: A General Framework of Using Predicted Variables in Downstream Analyses](https://naokiegami.com/paper/dsl_ss.pdf)
+TBA.
 
 ### Other Approaches
 e.g., Missing data imputation, semi-supervised learning, conformal prediction. 
 TBA.
 
-## A Guiding Framework
-
 ## Datasets
+TBA.
+
+## Software
+
 
 ## Contact
 <img src="./img/soda_logo.png" alt="SoDa logo" width="250px"/>
