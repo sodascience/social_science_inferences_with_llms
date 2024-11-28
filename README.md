@@ -7,8 +7,12 @@ While there is an abundance of research literature in dealing with measurement e
 This study has two primary objectives. First, we <ins>review existing literature</ins> to identify practices for addressing LLM-related measurement error, both in computer science and in social sciences. Second, we synthesise these findings with existing measurement modelling literature to propose <ins>a practical framework</ins> for making valid inferences using LLM-based measurements in social sciences. By bridging the gap between LLM prediction capabilities and social science inference requirements, our framework aims to enhance the reliability and validity of social science research outcomes in the era of LLMs.
 
 ## Literature Overview
-
 ### Inferences with LLMs
+
+| Year | Title | Predicted Variable | 
+| --- | --- | --- |
+| 2023 | [Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models](https://openreview.net/pdf?id=e8RZwixcE4) | Outcome |
+| 2024 | [Using Large Language Model Annotations for the Social Sciences: A General Framework of Using Predicted Variables in Downstream Analyses](https://naokiegami.com/paper/dsl_ss.pdf) | Predictor and Outcome |
 
 ### Inferences with Machine Learning Predictions
 
