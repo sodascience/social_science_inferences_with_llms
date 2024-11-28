@@ -7,6 +7,15 @@ While there is an abundance of research literature in dealing with measurement e
 This project has two primary objectives. First, we <ins>review existing literature</ins> to identify practices for addressing LLM-related measurement error, both in computer science and in social sciences. Second, we synthesise these findings with existing measurement modelling literature to propose <ins>a practical framework</ins> for making valid inferences using LLM-based measurements in social sciences. By bridging the gap between LLM prediction capabilities and social science inference requirements, our framework aims to enhance the reliability and validity of social science research outcomes in the era of LLMs.
 
 ## Literature Overview
+Current literature can be sorted into four groups: 
+
+1. Inferences with LLM-based predictions;
+2. Inferences with general machine learning-based predictions;
+3. Inferences with general measurement error in the social sciences;
+4. Others, such as missing data imputation, conformal prediction, semi-supervised learning.
+
+Existing proposed methods can be distinguished based on whether the LLM- or machine learning-based predictions are made on the `predictors`, the `outcome variable` or `both` that are to be used in downstream modelling (typically with regression models). 
+
 ### Inferences with LLMs
 
 | Year | Title | Predicted Variable(s) | 
@@ -51,6 +60,8 @@ TBA.
 | [PSPS](https://github.com/qlu-lab/psps) | PoSt-Prediction Summary-statistics-based (PSPS) inference | R and Python | M-estimators | Outcome | 
 | [DSL](https://naokiegami.com/dsl/) | Design-based Supervised Learning | R | Moment-based estimators | Predictor and outcome | 
 
+## Simulation Studies
+TBA.
 
 ## Contact
 <img src="./img/soda_logo.png" alt="SoDa logo" width="250px"/>
