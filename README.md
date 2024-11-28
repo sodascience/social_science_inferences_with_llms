@@ -41,7 +41,15 @@ TBA.
 ## Datasets
 TBA.
 
-## Software
+## Software Packages
+| Name | Method | Language | Estimators | Predicted Variables |
+|----|----|----|----|----|
+| [PostPI](https://github.com/leekgroup/postpi) | Post-Prediction Inference | R | Means, quantitles and GLMs | Outcome | 
+| [PPI, PPI++, Cross-PPI, PPBoot](https://github.com/aangelopoulos/ppi_py) | Prediction-powered inference and its extensions | Python | Any arbitrary estimator | Outcome | 
+| [PSPA](https://github.com/qlu-lab/pspa) | PoSt-Prediction Adaptive inference | R | Means, quantiles, linear regression, logistic regression | Predictor and outcome | 
+| [ipd](https://github.com/ipd-tools/ipd) | Implemented PostPI, PPI, PPI++ and PSPA | R | Means, quantiles, linear regression, logistic regression | Outcome | 
+| [PSPS](https://github.com/qlu-lab/psps) | PoSt-Prediction Summary-statistics-based (PSPS) inference | R and Python | M-estimators | Outcome | 
+| [DSL](https://naokiegami.com/dsl/) | Design-based Supervised Learning | R | Moment-based estimators | Predictor and outcome | 
 
 
 ## Contact
