@@ -9,16 +9,35 @@ This study has two primary objectives. First, we <ins>review existing literature
 ## Literature Overview
 ### Inferences with LLMs
 
-| Year | Title | Predicted Variable | 
+| Year | Title | Predicted Variable(s) | 
 | --- | --- | --- |
 | 2023 | [Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models](https://openreview.net/pdf?id=e8RZwixcE4) | Outcome |
-| 2024 | [Using Large Language Model Annotations for the Social Sciences: A General Framework of Using Predicted Variables in Downstream Analyses](https://naokiegami.com/paper/dsl_ss.pdf) | Predictor and Outcome |
+| 2024 | [Using Large Language Model Annotations for the Social Sciences: A General Framework of Using Predicted Variables in Downstream Analyses](https://naokiegami.com/paper/dsl_ss.pdf) | Predictor and outcome |
 
 ### Inferences with Machine Learning Predictions
 
-### Inferences with Missing Values
+| Year | Title | Predicted Variable(s) | 
+| --- | --- | --- |
+| 2020 | [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/doi/full/10.1073/pnas.2001238117?gad_source=1&gclid=CjwKCAiAxqC6BhBcEiwAlXp45xykgurcH-QuopXIjbAOtssXUZoCauzjRRTmmd-Ud3FFmJp3RhODIBoCgUsQAvD_BwE) | Outcome |
+| 2022 | [How Using Machine Learning Classification as a Variable in Regression Leads to Attenuation Bias and What to Do about It](https://ideas.repec.org/p/osf/socarx/453jk.html) | Predictor or outcome |
+| 2023 | [Prediction-powered inference](https://www.science.org/doi/10.1126/science.adi6000) | Outcome |
+| 2024 | [PPI++: Efficient Prediction-Powered Inference](https://arxiv.org/abs/2311.01453) | Outcome |
+| 2024 | [Cross-prediction-powered inference](https://www.pnas.org/doi/abs/10.1073/pnas.2322083121?gad_source=1&gclid=CjwKCAiAxqC6BhBcEiwAlXp455jkwwIzsaI_14eWknuE5daWeUS4TGu8V--VwXJf9bGEUJ5vJodv7BoCEGEQAvD_BwE) | Outcome |
+| 2024 | [A Note on the Prediction-Powered Bootstrap](https://arxiv.org/abs/2405.18379) | Outcome |
+| 2024 | [Assumption-Lean and Data-Adaptive Post-Prediction Inference](https://arxiv.org/abs/2311.14220) | Predictor and outcome |
+| 2024 | [ipd: An R Package for Conducting Inference on Predicted Data](https://arxiv.org/abs/2410.09665) | Outcome |
+| 2024 | [Task-Agnostic Machine-Learning-Assisted Inference](https://arxiv.org/abs/2405.20039) | Outcome |
+| 2024 | [Prediction De-Correlated Inference: A safe approach for post-prediction inference](https://arxiv.org/abs/2312.06478) | Outcome |
 
 ### Inferences with Measurement Error
+| Year | Title | 
+| --- | --- |
+| 2023 | [Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models](https://openreview.net/pdf?id=e8RZwixcE4)
+| 2024 | [Using Large Language Model Annotations for the Social Sciences: A General Framework of Using Predicted Variables in Downstream Analyses](https://naokiegami.com/paper/dsl_ss.pdf)
+
+### Other Approaches
+e.g., Missing data imputation, semi-supervised learning, conformal prediction. 
+TBA.
 
 ## A Guiding Framework
 
