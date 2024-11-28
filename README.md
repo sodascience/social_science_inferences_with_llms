@@ -4,7 +4,11 @@ With the advent of large language models (LLMs), the collection of measurements 
 
 While there is an abundance of research literature in dealing with measurement error, they focus on questionnaire-based measurement error. <ins>It is relatively new to social scientists how to deal with measurement issues arising from LLMs</ins>. 
 
-This project has two primary objectives. First, we <ins>review existing literature</ins> to identify practices for addressing LLM-related measurement error, both in computer science and in social sciences. Second, we synthesise these findings with existing measurement modelling literature to propose <ins>a practical framework</ins> for making valid inferences using LLM-based measurements in social sciences. By bridging the gap between LLM prediction capabilities and social science inference requirements, our framework aims to enhance the reliability and validity of social science research outcomes in the era of LLMs.
+This project has three primary objectives. 
+
+First, we <ins>review existing literature</ins> to identify methods for addressing LLM-related measurement error in social science modelling. 
+Second, we conduct simulation studies to compare existing methods.
+Lastly, we synthesise these findings with existing measurement modelling literature to propose <ins>a practical framework</ins> for making valid social science inferences using LLM-based measurements. By bridging the gap between LLM prediction capabilities and social science inference requirements, our framework aims to enhance the reliability and validity of social science research outcomes in the era of LLMs.
 
 ## Literature Overview
 Current literature can be sorted into four groups: 
